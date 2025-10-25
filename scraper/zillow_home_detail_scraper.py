@@ -25,7 +25,7 @@ def logLink(proxy, link):
         logContent = {
             "content": f"{proxy} Link Scraped{link}",
         }
-        requests.post("https://discord.com/api/webhooks/1410673957350277271/kP05e1K4Zmnl-XZysb9VniIFPTTpuQoCYAKAPoz6FijgQonFV2s1IF-G8yJHOgFAKjox",data=logContent)
+        requests.post("DISCORD_PROGRESS",data=logContent)
     except Exception as e:
         pass
 
