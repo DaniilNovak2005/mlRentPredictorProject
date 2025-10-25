@@ -1,0 +1,9 @@
+flask
+xgboost
+nodriver
+beautifulsoup4
+pandas
+numpy
+shap
+haversine
+scikit-learn

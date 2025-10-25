@@ -1,0 +1,7 @@
+node_modules/
+*.csv
+*.parquet
+*.pyc
+*.env
+__pycache__/
+FL/

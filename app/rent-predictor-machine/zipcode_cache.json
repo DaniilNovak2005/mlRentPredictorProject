@@ -1,0 +1,411 @@
+{
+    "33431": {
+        "zipcode": "33431",
+        "median_household_income": 143748.0,
+        "average_household_income": 143748.0,
+        "per_capita_income": 50139.0,
+        "high_income_households_percent": 17.8,
+        "median_income_25_to_44_years": 104474.0,
+        "median_income_45_to_64_years": 108500.0,
+        "median_income_65_years_and_over": 92587.0
+    },
+    "33065": {
+        "zipcode": "33065",
+        "median_household_income": 90706.0,
+        "average_household_income": 90706.0,
+        "per_capita_income": 31793.0,
+        "high_income_households_percent": 7.5,
+        "median_income_under_25_years": 33453.0,
+        "median_income_25_to_44_years": 70698.0,
+        "median_income_45_to_64_years": 82172.0,
+        "median_income_65_years_and_over": 50635.0
+    },
+    "33428": {
+        "zipcode": "33428",
+        "median_household_income": 121431.0,
+        "average_household_income": 121431.0,
+        "per_capita_income": 43378.0,
+        "high_income_households_percent": 16.9,
+        "median_income_under_25_years": 56125.0,
+        "median_income_25_to_44_years": 89446.0,
+        "median_income_45_to_64_years": 96250.0,
+        "median_income_65_years_and_over": 73433.0
+    },
+    "33032": {
+        "zipcode": "33032",
+        "median_household_income": 92657.0,
+        "average_household_income": 92657.0,
+        "per_capita_income": 28161.0,
+        "high_income_households_percent": 6.3,
+        "median_income_25_to_44_years": 79804.0,
+        "median_income_45_to_64_years": 74340.0,
+        "median_income_65_years_and_over": 54654.0
+    },
+    "33015": {
+        "zipcode": "33015",
+        "median_household_income": 88282.0,
+        "average_household_income": 88282.0,
+        "per_capita_income": 30547.0,
+        "high_income_households_percent": 6.1,
+        "median_income_under_25_years": 57684.0,
+        "median_income_25_to_44_years": 79583.0,
+        "median_income_45_to_64_years": 74527.0,
+        "median_income_65_years_and_over": 50961.0
+    },
+    "32666": {
+        "zipcode": "32666",
+        "median_household_income": 84433.0,
+        "average_household_income": 84433.0,
+        "per_capita_income": 39286.0,
+        "high_income_households_percent": 7.8,
+        "median_income_25_to_44_years": 70368.0,
+        "median_income_45_to_64_years": 66970.0,
+        "median_income_65_years_and_over": 66400.0
+    },
+    "32803": {
+        "zipcode": "32803",
+        "median_household_income": 132171.0,
+        "average_household_income": 132171.0,
+        "per_capita_income": 66235.0,
+        "high_income_households_percent": 17.3,
+        "median_income_under_25_years": 106094.0,
+        "median_income_25_to_44_years": 105719.0,
+        "median_income_45_to_64_years": 111016.0,
+        "median_income_65_years_and_over": 67375.0
+    },
+    "33445": {
+        "zipcode": "33445",
+        "median_household_income": 106289.0,
+        "average_household_income": 106289.0,
+        "per_capita_income": 49227.0,
+        "high_income_households_percent": 12.2,
+        "median_income_under_25_years": 42031.0,
+        "median_income_25_to_44_years": 88047.0,
+        "median_income_45_to_64_years": 97945.0,
+        "median_income_65_years_and_over": 52010.0
+    },
+    "33426": {
+        "zipcode": "33426",
+        "median_household_income": 89038.0,
+        "average_household_income": 89038.0,
+        "per_capita_income": 41982.0,
+        "high_income_households_percent": 7.1,
+        "median_income_under_25_years": 75795.0,
+        "median_income_25_to_44_years": 83821.0,
+        "median_income_45_to_64_years": 87788.0,
+        "median_income_65_years_and_over": 53455.0
+    },
+    "33462": {
+        "zipcode": "33462",
+        "median_household_income": 103879.0,
+        "average_household_income": 103879.0,
+        "per_capita_income": 42582.0,
+        "high_income_households_percent": 9.6,
+        "median_income_25_to_44_years": 73190.0,
+        "median_income_45_to_64_years": 91409.0,
+        "median_income_65_years_and_over": 50442.0
+    },
+    "33467": {
+        "zipcode": "33467",
+        "median_household_income": 123724.0,
+        "average_household_income": 123724.0,
+        "per_capita_income": 50388.0,
+        "high_income_households_percent": 15.3,
+        "median_income_25_to_44_years": 117750.0,
+        "median_income_45_to_64_years": 123133.0,
+        "median_income_65_years_and_over": 57227.0
+    },
+    "33449": {
+        "zipcode": "33449",
+        "median_household_income": 201988.0,
+        "average_household_income": 201988.0,
+        "per_capita_income": 72608.0,
+        "high_income_households_percent": 31.7,
+        "median_income_25_to_44_years": 170000.0,
+        "median_income_45_to_64_years": 169815.0,
+        "median_income_65_years_and_over": 111607.0
+    },
+    "33034": {
+        "zipcode": "33034",
+        "median_household_income": 62266.0,
+        "average_household_income": 62266.0,
+        "per_capita_income": 17884.0,
+        "high_income_households_percent": 3.4,
+        "median_income_25_to_44_years": 48926.0,
+        "median_income_45_to_64_years": 44918.0,
+        "median_income_65_years_and_over": 38000.0
+    },
+    "32148": {
+        "zipcode": "32148",
+        "median_household_income": 55288.0,
+        "average_household_income": 55288.0,
+        "per_capita_income": 21706.0,
+        "high_income_households_percent": 1.4,
+        "median_income_under_25_years": 45532.0,
+        "median_income_25_to_44_years": 45759.0,
+        "median_income_45_to_64_years": 46361.0,
+        "median_income_65_years_and_over": 37899.0
+    },
+    "32640": {
+        "zipcode": "32640",
+        "median_household_income": 75210.0,
+        "average_household_income": 75210.0,
+        "per_capita_income": 30419.0,
+        "high_income_households_percent": 3.4,
+        "median_income_under_25_years": 74219.0,
+        "median_income_25_to_44_years": 66552.0,
+        "median_income_45_to_64_years": 58125.0,
+        "median_income_65_years_and_over": 48077.0
+    },
+    "32102": {
+        "zipcode": "32102",
+        "median_household_income": 67131.0,
+        "average_household_income": 67131.0,
+        "per_capita_income": 34835.0,
+        "high_income_households_percent": 2.3,
+        "median_income_25_to_44_years": 60375.0,
+        "median_income_45_to_64_years": 59940.0,
+        "median_income_65_years_and_over": 50469.0
+    },
+    "32130": {
+        "zipcode": "32130",
+        "median_household_income": 80438.0,
+        "average_household_income": 80438.0,
+        "per_capita_income": 27402.0,
+        "high_income_households_percent": 7.1,
+        "median_income_25_to_44_years": 51023.0,
+        "median_income_45_to_64_years": 72500.0,
+        "median_income_65_years_and_over": 54789.0
+    },
+    "34452": {
+        "zipcode": "34452",
+        "median_household_income": 68770.0,
+        "average_household_income": 68770.0,
+        "per_capita_income": 29743.0,
+        "high_income_households_percent": 2.7,
+        "median_income_under_25_years": 60909.0,
+        "median_income_25_to_44_years": 67436.0,
+        "median_income_45_to_64_years": 66172.0,
+        "median_income_65_years_and_over": 42689.0
+    },
+    "32163": {
+        "zipcode": "32163",
+        "median_household_income": 117869.0,
+        "average_household_income": 117869.0,
+        "per_capita_income": 63728.0,
+        "high_income_households_percent": 11.6,
+        "median_income_45_to_64_years": 78941.0,
+        "median_income_65_years_and_over": 97616.0
+    },
+    "34748": {
+        "zipcode": "34748",
+        "median_household_income": 70415.0,
+        "average_household_income": 70415.0,
+        "per_capita_income": 32955.0,
+        "high_income_households_percent": 3.2,
+        "median_income_under_25_years": 31695.0,
+        "median_income_25_to_44_years": 49903.0,
+        "median_income_45_to_64_years": 60081.0,
+        "median_income_65_years_and_over": 55076.0
+    },
+    "33860": {
+        "zipcode": "33860",
+        "median_household_income": 76168.0,
+        "average_household_income": 76168.0,
+        "per_capita_income": 27180.0,
+        "high_income_households_percent": 3.9,
+        "median_income_under_25_years": 40462.0,
+        "median_income_25_to_44_years": 67229.0,
+        "median_income_45_to_64_years": 88105.0,
+        "median_income_65_years_and_over": 52045.0
+    },
+    "33567": {
+        "zipcode": "33567",
+        "median_household_income": 95063.0,
+        "average_household_income": 95063.0,
+        "per_capita_income": 31134.0,
+        "high_income_households_percent": 4.8,
+        "median_income_under_25_years": 66078.0,
+        "median_income_25_to_44_years": 96294.0,
+        "median_income_45_to_64_years": 102885.0,
+        "median_income_65_years_and_over": 40438.0
+    },
+    "33547": {
+        "zipcode": "33547",
+        "median_household_income": 155495.0,
+        "average_household_income": 155495.0,
+        "per_capita_income": 48703.0,
+        "high_income_households_percent": 25.5,
+        "median_income_25_to_44_years": 133534.0,
+        "median_income_45_to_64_years": 133949.0,
+        "median_income_65_years_and_over": 80185.0
+    },
+    "33815": {
+        "zipcode": "33815",
+        "median_household_income": 51708.0,
+        "average_household_income": 51708.0,
+        "per_capita_income": 23797.0,
+        "high_income_households_percent": 2.4,
+        "median_income_25_to_44_years": 44692.0,
+        "median_income_45_to_64_years": 47351.0,
+        "median_income_65_years_and_over": 27334.0
+    },
+    "33594": {
+        "zipcode": "33594",
+        "median_household_income": 109397.0,
+        "average_household_income": 109397.0,
+        "per_capita_income": 41018.0,
+        "high_income_households_percent": 11.2,
+        "median_income_under_25_years": 78365.0,
+        "median_income_25_to_44_years": 105133.0,
+        "median_income_45_to_64_years": 112759.0,
+        "median_income_65_years_and_over": 53140.0
+    },
+    "33579": {
+        "zipcode": "33579",
+        "median_household_income": 124808.0,
+        "average_household_income": 124808.0,
+        "per_capita_income": 40888.0,
+        "high_income_households_percent": 13.7,
+        "median_income_25_to_44_years": 116866.0,
+        "median_income_45_to_64_years": 123676.0,
+        "median_income_65_years_and_over": 70950.0
+    },
+    "34293": {
+        "zipcode": "34293",
+        "median_household_income": 106646.0,
+        "average_household_income": 106646.0,
+        "per_capita_income": 50794.0,
+        "high_income_households_percent": 10.4,
+        "median_income_under_25_years": 40769.0,
+        "median_income_25_to_44_years": 88552.0,
+        "median_income_45_to_64_years": 97384.0,
+        "median_income_65_years_and_over": 77564.0
+    },
+    "34275": {
+        "zipcode": "34275",
+        "median_household_income": 160213.0,
+        "average_household_income": 160213.0,
+        "per_capita_income": 79968.0,
+        "high_income_households_percent": 16.4,
+        "median_income_25_to_44_years": 98467.0,
+        "median_income_45_to_64_years": 112703.0,
+        "median_income_65_years_and_over": 66818.0
+    },
+    "34243": {
+        "zipcode": "34243",
+        "median_household_income": 104256.0,
+        "average_household_income": 104256.0,
+        "per_capita_income": 45634.0,
+        "high_income_households_percent": 11.0,
+        "median_income_under_25_years": 46415.0,
+        "median_income_25_to_44_years": 87754.0,
+        "median_income_45_to_64_years": 105497.0,
+        "median_income_65_years_and_over": 64030.0
+    },
+    "34239": {
+        "zipcode": "34239",
+        "median_household_income": 119560.0,
+        "average_household_income": 119560.0,
+        "per_capita_income": 55964.0,
+        "high_income_households_percent": 12.5,
+        "median_income_25_to_44_years": 106094.0,
+        "median_income_45_to_64_years": 71973.0,
+        "median_income_65_years_and_over": 69274.0
+    },
+    "34135": {
+        "zipcode": "34135",
+        "median_household_income": 115300.0,
+        "average_household_income": 115300.0,
+        "per_capita_income": 51927.0,
+        "high_income_households_percent": 11.4,
+        "median_income_25_to_44_years": 65446.0,
+        "median_income_45_to_64_years": 95961.0,
+        "median_income_65_years_and_over": 87885.0
+    },
+    "34145": {
+        "zipcode": "34145",
+        "median_household_income": 179104.0,
+        "average_household_income": 179104.0,
+        "per_capita_income": 97179.0,
+        "high_income_households_percent": 26.2,
+        "median_income_25_to_44_years": 105822.0,
+        "median_income_45_to_64_years": 123571.0,
+        "median_income_65_years_and_over": 98084.0
+    },
+    "34142": {
+        "zipcode": "34142",
+        "median_household_income": 74845.0,
+        "average_household_income": 74845.0,
+        "per_capita_income": 21797.0,
+        "high_income_households_percent": 4.7,
+        "median_income_25_to_44_years": 62279.0,
+        "median_income_45_to_64_years": 65560.0,
+        "median_income_65_years_and_over": 45070.0
+    },
+    "32806": {
+        "zipcode": "32806",
+        "median_household_income": 124647.0,
+        "average_household_income": 124647.0,
+        "per_capita_income": 55430.0,
+        "high_income_households_percent": 15.5,
+        "median_income_under_25_years": 50850.0,
+        "median_income_25_to_44_years": 105288.0,
+        "median_income_45_to_64_years": 96640.0,
+        "median_income_65_years_and_over": 60496.0
+    },
+    "33321": {
+        "zipcode": "33321",
+        "median_household_income": 76447.0,
+        "average_household_income": 76447.0,
+        "per_capita_income": 34270.0,
+        "high_income_households_percent": 3.6,
+        "median_income_25_to_44_years": 68518.0,
+        "median_income_45_to_64_years": 74031.0,
+        "median_income_65_years_and_over": 42538.0
+    },
+    "33319": {
+        "zipcode": "33319",
+        "median_household_income": 78745.0,
+        "average_household_income": 78745.0,
+        "per_capita_income": 32710.0,
+        "high_income_households_percent": 3.9,
+        "median_income_under_25_years": 49412.0,
+        "median_income_25_to_44_years": 58964.0,
+        "median_income_45_to_64_years": 73566.0,
+        "median_income_65_years_and_over": 41819.0
+    },
+    "33322": {
+        "zipcode": "33322",
+        "median_household_income": 84636.0,
+        "average_household_income": 84636.0,
+        "per_capita_income": 39881.0,
+        "high_income_households_percent": 7.1,
+        "median_income_under_25_years": 53203.0,
+        "median_income_25_to_44_years": 102989.0,
+        "median_income_45_to_64_years": 84441.0,
+        "median_income_65_years_and_over": 37963.0
+    },
+    "33351": {
+        "zipcode": "33351",
+        "median_household_income": 83482.0,
+        "average_household_income": 83482.0,
+        "per_capita_income": 32834.0,
+        "high_income_households_percent": 4.7,
+        "median_income_under_25_years": 18558.0,
+        "median_income_25_to_44_years": 79918.0,
+        "median_income_45_to_64_years": 64217.0,
+        "median_income_65_years_and_over": 46719.0
+    },
+    "33311": {
+        "zipcode": "33311",
+        "median_household_income": 68837.0,
+        "average_household_income": 68837.0,
+        "per_capita_income": 24451.0,
+        "high_income_households_percent": 3.7,
+        "median_income_under_25_years": 60225.0,
+        "median_income_25_to_44_years": 58684.0,
+        "median_income_45_to_64_years": 57700.0,
+        "median_income_65_years_and_over": 36342.0
+    }
+}
